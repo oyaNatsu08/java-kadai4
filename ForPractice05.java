@@ -9,7 +9,6 @@ public class ForPractice05 {
             }
             System.out.println();
         }
-        // for5
         for (var i = 5; i > 0; i--) {
             for (var j = 0; j < i; j++) {
                 System.out.print("*");
